@@ -26,6 +26,11 @@ Welcome! Here you will find visual proof of my educational milestones.
 
 [DARACHHAT SOTHUN 23291 SPEL-Online-Certificate.pdf](https://github.com/user-attachments/files/20546158/DARACHHAT.SOTHUN.23291.SPEL-Online-Certificate.pdf)
 
+---
+
+## My Curriculum Vitae  for the Full-Stack Developer Intern position at AMK
+
+[Sothun_Darachhat_CV.pdf](https://github.com/user-attachments/files/20546781/Sothun_Darachhat_CV.pdf)
 
 ---
 
