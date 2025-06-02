@@ -16,4 +16,17 @@ Welcome! Here you will find visual proof of my educational milestones.
 
 ---
 
+## 🎓 AWS Academy Machine Learning 
+
+[AWS_Academy_Graduate___AWS_Academy_Machine_Learning_Foundations_Badge20250602-29-yg0hfl.pdf](https://github.com/user-attachments/files/20546155/AWS_Academy_Graduate___AWS_Academy_Machine_Learning_Foundations_Badge20250602-29-yg0hfl.pdf)
+
+---
+
+## 🎓SPEL-Online-Certificate
+
+[DARACHHAT SOTHUN 23291 SPEL-Online-Certificate.pdf](https://github.com/user-attachments/files/20546158/DARACHHAT.SOTHUN.23291.SPEL-Online-Certificate.pdf)
+
+
+---
+
 > _Proud of my achievements and excited for the journey ahead!_
