@@ -28,10 +28,5 @@ Welcome! Here you will find visual proof of my educational milestones.
 
 ---
 
-## My Curriculum Vitae  for the Full-Stack Developer Intern position at AMK
-
-[Sothun_Darachhat_CV.pdf](https://github.com/user-attachments/files/20546781/Sothun_Darachhat_CV.pdf)
-
----
 
 > _Proud of my achievements and excited for the journey ahead!_
